@@ -1,5 +1,5 @@
-# Visualization of binary classification using logistic regression
-# Includes change of cost and the data
+# Demonstration of binary classification using logistic regression
+# Shows how the hypothesis changes with gradient descent
 
 import numpy as np
 import seaborn as sb
